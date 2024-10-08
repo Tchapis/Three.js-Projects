@@ -1,0 +1,45 @@
+Planetary Object cheat sheet
+
+Below I have included the planet sizes in miles and kilometers, as well as 
+the distance of each planet from the next in order, and the distance from each
+planet to the sun.
+
+Planet sizes:
+•	Pluto’s size: diameter of 1,477 miles (2,377 kilometers)
+•	Psyche size: 140 miles in diameter, potato shape (173 miles (280 kilometers) across at its widest point and 144 miles (232 kilometers) long
+•	Neptune’s size: 30,775 miles in diameter (49,528 kilometers).
+•	Uranus’ size: 31,763 miles (51,118 kilometer) in diameter
+•	Saturn’s size: 74,897 miles (120,500 kilometers) in diameter
+•	Jupiter’s size: 88,695 miles (142,800 kilometers) in diameter
+•	Mars size: 4,222 miles (6,794 kilometers) in diameter
+•	Earth size: 7,926 miles (12,760 kilometers) in diameter
+•	Venus Size: 7,521 miles (12,104 kilometers) in diameter
+•	Mercury Size: 3,032 miles (4,879 kilometers)
+•	Sun’s size: 864,938 miles (1.392 million kilometers)
+
+Distance of each planet (in order) from one another:
+•	Pluto’s distance from Neptune: roughly 17 astronomical units (AU) (note: AU = 149.6 million kilometers (the distance between earth and the sun)
+•	Side notes on Psyche: It completes a rotation on its axis every 4.2 hours.
+•	Psyche distance from closest planets: Psyche is located in the asteroid belt between Mars and Jupiter. It is 2.5 to 3.3 times further from the sun than the Earth. Because Psyche and Earth orbit at different speeds, the distance from Earth to Psyche varies from less than 186 million miles to more than 372 million miles. It is 1,900 to 2,700 miles (3,000 to 4,400 kilometers) from Mars.
+•	Psyche’s distance from sun: 235 to 309 million miles (378 to 497 million kilometers) from the sun. (2.5 to 3.3 AU)
+•	Neptune’s distance from Uranus: 1,015,078,293 miles (1,633,610,160 kilometers) (10.92 AU) 
+•	Uranus’ distance from Saturn: 900,377,530 miles (1,448,950,000 kilometers)
+•	Saturn’s distance from Jupiter: distance varies from 4.3 AU and 14.7 AU due to them constantly moving around the sun
+•	Jupiter distance from Mars: 342,012,346 miles (550,390,000 kilometers)
+•	Mars distance from Earth: 140 million miles (225 million kilometers)
+•	Earth’s distance from Venus: 126,249,125 miles (203,178,272 kilometers)
+•	Venus distance from Mercury: 58 million kilometers
+
+ALL Plants distance from the Sun:
+•	Mercury distance from Sun: 38 million miles (58 million kilometers)
+•	Venus Distance from sun: 67 million miles (108 million kilometers)
+•	Earth distance from sun:93 million miles (149 million kilometers)
+•	Mars distance from sun: 142 million miles (228 million kilometers)
+•	Jupiter’s distance from sun: 484 million miles (778 million kilometers)
+•	Saturn’s distance from sun: 886 million miles (1.4 billion kilometers)
+•	Uranus’ distance from sun: 1.8 billion miles (2.9 billion kilometers)
+•	Neptune’s distance from sun: 2.8 billion miles (4.5 billion kilometers)
+•	Psyche’s distance from sun: 235 to 309 million miles (378 to 497 million kilometers)
+•	Pluto’s distance from sun: 3.7 billion miles (5.9 billion kilometers)
+
+
