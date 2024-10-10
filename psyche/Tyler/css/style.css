@@ -1,0 +1,36 @@
+/*
+* style.css
+* 
+* Class:    SER 401
+* Author:   Tyler Brown
+* Date:     10/9/2024
+* Revision: 1.0
+*
+* Description: This is the style sheet for the web elements used by the HTML file. 
+*/
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  background-color: #000;
+}
+
+header {
+  margin-top: 2em;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.515);
+}
+
+header h1 {
+  font-size: 1em;
+  font-weight: 400;
+}
+
+#container3D canvas {
+  width: 100vw !important;
+  height: 100vh !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
