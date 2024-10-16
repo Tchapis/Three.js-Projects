@@ -1,0 +1,21 @@
+def convert_earth_to_psyche(earth_days=None, earth_years=None):
+    #Psyche's most current data for conversion of Earth to Psyche
+    #Psyche's day in Earth Hours
+    psyche_rotation_period_hours = 4.2
+
+    #Psyche's year in Earth Years
+    psyche_orbital_period_earth_years = 4.99
+
+    result = {}
+
+    #Conversion for Earth Days to Psyche Days
+    if earth_days is not None:
+        psyche_days = earth_days * (24/psyche_rotation_period_hours)
+        result['Psyche Days'] = psyche_days
+
+    #Conversion for Earth years to Psyche years
+    if earth_years is not None:
+        psyche_years = earth_years / psyche_orbital_period_earth_years
+        result['Psyche Years'] = psyche_years
+
+        return result
