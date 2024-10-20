@@ -1,0 +1,51 @@
+Jenny Potocki
+Task #27
+
+Kelvin (K) to Celsius(C):
+
+C = K - 273.15
+
+Celsius (C) to Fahrenheit (F):
+
+F = (95 x C) + 32
+
+Psyche’s temperature ranges could possibly range from 150 K to 500 K depending on the current exposure to the sun. 
+Earth’s surface ranges from 200 K to 310 K depending on the environment.
+
+To find the extremes of Psyche’s temperature, we will convert both 150 K and 500 K, as well as 200 K and 310 K to Celsius and Fahrenheit.
+
+Psyche temperature conversions:
+
+150 K to Celsius: 
+		
+		C = 150 - 273.15 = -123.15° C
+
+150 K to Fahrenheit: 
+
+F = (95 x -123.15) + 32 = -189.67° F
+
+500 K to Celsius:
+
+C = 500 - 273.15 = 266.85℃
+
+500 K to Fahrenheit:
+
+F = (95 x 226.85) + 32 = 440.33℉
+
+Earth temperature conversions:
+
+200 K to Celsius:
+
+		C = 200 - 273.15 = -73.15℃
+
+200 K to Fahrenheit:
+
+		F = (95 x -73.15) + 32 = -99.67℉
+
+310 K to Celsius:
+
+		C = 310 - 273.15  = 36.85℃
+
+310 K to Fahrenheit:
+
+		F = (95 x 36.85) + 32 = 98.33℉
