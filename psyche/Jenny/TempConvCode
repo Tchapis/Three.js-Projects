@@ -1,0 +1,31 @@
+#Jenny Potocki
+#Task 285
+
+#Function to convert Kelvin to Celsius
+def kelvin_to_celsius(kelvin):
+    return kelvin - 273.15
+
+#Function to convert Celsius to Fahrenheit
+def celsius_to_fahrenheit(celsius):
+    return (celsius * 9/5) + 32
+
+#Printing temperate conversions
+def print_temp_conversions(name, kelvin_temps):
+    print(f"Temperature conversions for {name}:")
+    for temp in kelvin_temps:
+        celsius = kelvin_to_celsius(temp)
+        fahrenheit = celsius_to_fahrenheit(celsius)
+        print(f"{temp} K = {celsius:.2f} C = {fahrenheit:.2f} F")
+        print()
+
+        #Psyche temps range from 150 K to 500 K
+        psyche_temp = [150, 500]
+
+        #Earth temps range from 200 K to 310 K
+        earth_temps = [200, 310]
+
+        #conversions for Psyche
+        print_temp_conversion("Psyche asteroid", psyche_temp)
+
+        #conversion for Earth
+        print_temp_conversions("Earth", earth_temps)
